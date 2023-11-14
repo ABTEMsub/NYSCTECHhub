@@ -1,0 +1,190 @@
+.head{
+    height: 200px;
+    width: 100%;
+    background-image: url("background.jpg");
+}
+.img{
+    height: 80px;
+    width: 60px;
+    margin: 10px 10px;
+    color: #ffffff;
+    float: left;
+    font-family: calibri;
+    font-size: 23px;
+    font-align: left;
+}
+.Nav{
+    margin: 30px 10px;
+    width: 65%;
+    /* border: 1px solid red;*/
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+.link{
+    font-family: calibri;
+    font-size: 15px;
+    padding: 5px;
+    color: #ffffff;
+}  
+}
+.head2{
+    height: 90px;
+    width: 85%;
+    background: #ffffff;
+    float: center;
+    margin-left: 65px;
+    margin-right: 65px;
+}
+.headNav{
+    /* border: 1px solid red; */
+    height: 30px;
+    width: 85%;
+    float: left;
+    margin-top: 50px;
+    margin-left: 60px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 20px;
+}
+.link2{
+    font-family: calibri;
+    font-size: 25px;
+    padding: 15px;
+    color: #000000;
+}
+.body{
+    /*height: inherit;
+    width: 86%;
+    float: left;
+    border: 1px solid green;
+    margin-left: 65px;
+    margin-rigt: 65px;/*  */
+}
+.img2{
+    height: inherit;
+    width: 40%;
+    /*border: 1px solid red; */
+    float: left;
+    margin-left: 65px;
+    
+}
+.mainImage{
+    height: 400px;
+    width: 80%;
+}
+.img3{
+    height: inherit;
+    width: 45%;
+    /*border: 1px solid red;/*  */
+    float: left;
+    background: #f2f2f2;
+}
+.H1{
+    font-family: calibri;
+    font-size: 40px;
+    text-align: right;
+    float: right;
+    width: 98%;
+    margin-left: 10px;
+    margin-right: 5px;
+    padding-right: 5px;
+}
+.B1{
+    font-family: calibri;
+    font-size: 20px;
+    text-align: justify;
+    width: 80%;
+    margin-left: 40px;
+    margin-right: 38px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.img4{
+    height: inherit;
+    width: 45%;
+    /* border: 1px solid red; */
+    float: left;
+    background: #f2f2f2;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.img5{
+    height: 2845.2px;
+    width: 40%;
+    /* border: 1px solid red; */
+    float: left;
+    background: #2c2c2ceb;
+    margin-top: 20px;
+}
+.H2{
+    font-family: calibri;
+    font-size: 40px;
+    text-align: center;
+    width: 77%;
+    margin-left: 43px;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+.B2{
+    font-family: calibri;
+    font-size: 20px;
+    text-align: justify;
+    width: 80%;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.H3{
+    font-family: calibri;
+    font-size: 40px;
+    text-align: left;
+    width: 77%;
+    margin-left: 43px;
+    margin-top: 25px;
+    margin-right: 10px;
+    color: #ffffff;
+}
+.B3{
+    font-family: calibri;
+    font-size: 20px;
+    text-align: justify;
+    width: 80%;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #ffffff;
+}
+.foot{
+    height: inherit;
+    width: 100%;
+    background: #030303cb;
+    float: left;
+    margin-top: 20px;
+}
+.footer{
+    width: 50%;
+    height: 50px;
+    /* border: 1px solid red; */
+    margin-left: 300px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: left;
+    font-family: calibri;
+    font-size: 25px;
+    color: #ffffff;
+}
+.link3{
+    font-family: calibri;
+    font-size: 25px;
+    padding: 10px;
+    color: #ffffff;
+Nav2{
+    /* margin: 30px 10px;
+    width: 65%;
+    /* border: 1px solid red;*/
+    /*float: right;*/
+}
